@@ -8,33 +8,12 @@
 
 ## 편집 가이드라인 ##
 
-* 동영상 맨 처음은 페이드-인 처리
-* 동영상 맨 마지막은 페이드-아웃 처리
-* 나머지 부분에서는 편집자 재량
-
+* 동영상 맨 처음은 [이미지](Build2022AfterParty-postproduction.png)를 5초간 표시
+* 편집된 영상을 추가하며 빈 공간을 적절히 채우기
+* 마지막 부분은 Microsoft 후원에 따른 End cards 표시
+* 그 외 편집자 재량
 
 ### 본 동영상 이전 ###
-
-#### 발표내용에 스폰서 관련 언급이 **있을** 경우 ####
-
-샘플 동영상: [gav2020kr-d3-preview-sponsors.mp4](gav2020kr-d3-preview-sponsors.mp4)
-
-본 동영상 이전에 아래 두 슬라이드를 순서대로 배치한다.
-
-  <img src="intro.png" width="480" style="border: 1px solid;" />
-  <img src="speaker-placeholder.png" width="480" style="border: 1px solid;" />
-
-
-#### 발표내용에 스폰서 관련 언급이 **없을** 경우 ####
-
-샘플 동영상: [gav2020kr-d3-preview-nosopnsors.mp4](gav2020kr-d3-preview-nosopnsors.mp4)
-
-본 동영상 이전에 아래 세 슬라이드를 순서대로 배치한다.
-
-  <img src="intro.png" width="480" style="border: 1px solid;" />
-  <img src="sponsors.png" width="480" style="border: 1px solid;" />
-  <img src="speaker-placeholder.png" width="480" style="border: 1px solid;" />
-
 
 ### 본 동영상 ###
 
@@ -45,7 +24,4 @@
 
 ### 본 동영상 이후 ###
 
-본 동영상 이후 아래 두 슬라이드를 순서대로 배치한다.
-
-  <img src="speaker-placeholder.png" width="480" style="border: 1px solid;" />
-  <img src="intro.png" width="480" style="border: 1px solid;" />
+본 폴더 파워포인트 파일로 생성한 [썸네일 이미지](Build2022AfterParty-postproduction-cards)를 영상 업로드시 활용한다.
